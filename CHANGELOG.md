@@ -13,4 +13,5 @@ This is an alpha version! The changes listed here are not final.
 - Add package skeleton
 
 ### Changed
+- The package now requires PHP >= 7.0.
 - Updated package dependencies.
