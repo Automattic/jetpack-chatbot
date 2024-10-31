@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add package skeleton
+- Enable test coverage.
 
 ### Changed
 - The package now requires PHP >= 7.0.
