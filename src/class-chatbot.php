@@ -12,5 +12,5 @@ namespace Automattic\Jetpack;
  */
 class Chatbot {
 
-	const PACKAGE_VERSION = '0.1.4-alpha';
+	const PACKAGE_VERSION = '0.2.0-alpha';
 }
